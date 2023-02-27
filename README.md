@@ -8,8 +8,9 @@ To install the B2C Demo Shop:
 ```bash
 mkdir spryker-b2c && cd spryker-b2c
 git clone https://github.com/wesolowski/b2c-demo-shop.git ./
-git clone git@github.com:spryker/docker-sdk.git docker
+git clone https://github.com/spryker/docker-sdk.git docker
 ```
+
 
 #### Setting up a development environment
 
